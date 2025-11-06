@@ -1,0 +1,5 @@
+Login e autenticação de usuários
+Cadastro de novos usuários
+Edição de perfil
+Dashboard com estatísticas
+Integração com API externa

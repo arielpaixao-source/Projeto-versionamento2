@@ -1,1 +1,9 @@
 
+
+- Python
+- Flask
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- GitHub
